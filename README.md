@@ -22,6 +22,9 @@ We leave all the default values for the following options and press the Create b
 
 ![image](https://github.com/user-attachments/assets/84045a59-6a94-4de8-a85b-4da48cc5c4a6)
 
+See the project folders and files structure
+
+![image](https://github.com/user-attachments/assets/b5c3838a-1278-4765-8207-2bb4b9662239)
 
 ## 2. We create a GoogleMap API Key in the Google Cloud Console
 
