@@ -135,6 +135,8 @@ We open the NavMenu.razor component and we create a new NavLink item for navigat
 
 # 7. We run the application a see the result
 
+We select the menu option **GoogleMaps** and then press the **Pan to Current Location** button
 
+![image](https://github.com/user-attachments/assets/f46885ac-ecb2-4a10-af64-67f96084aad6)
 
 
