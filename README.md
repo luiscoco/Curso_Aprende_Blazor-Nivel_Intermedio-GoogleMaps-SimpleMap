@@ -48,9 +48,11 @@ We create a new API Key
 
 ![image](https://github.com/user-attachments/assets/e0b9741a-676b-4b89-acf0-a4797b90b3a3)
 
-We copy the API Key code and paste in the **App.razor** component
+We copy the API Key code from the GoogleCloud console
 
 ![image](https://github.com/user-attachments/assets/ccb46f74-2957-47b6-84bc-6ba495ba8d86)
+
+And we paste this code in the **App.razor** component
 
 ![image](https://github.com/user-attachments/assets/cc8c5373-b1e2-4123-879f-e108a9f36e21)
 
