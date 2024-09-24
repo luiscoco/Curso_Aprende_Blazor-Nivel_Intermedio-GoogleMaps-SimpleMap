@@ -1,8 +1,6 @@
 # How to integrate in your Blazor Web App (.NET 9) a Google Simple Map
 
-In this sample we are going to create a Blazor Web Application with Visual Studio 2022 and .NET 9 
-
-We will create a Razor component to invoke the GoogleMap API to show a simple map
+In this sample we are going to create a Blazor Web Application with Visual Studio 2022 and .NET 9. We will create a Razor component to invoke the GoogleMap API to show a simple map
 
 **Note**: for getting more information about GoogleMaps API in JavaScript visit this example in the URL
 
