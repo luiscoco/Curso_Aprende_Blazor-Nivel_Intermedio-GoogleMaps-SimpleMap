@@ -120,3 +120,21 @@ This is the new component source code:
     }
 }
 ```
+
+## 6. Create a new menu item in the NavMenu.razor component
+
+We open the NavMenu.razor component and we create a new NavLink item for navigating to the new component
+
+```razor
+<div class="nav-item px-3">
+     <NavLink class="nav-link" href="googleMaps">
+          <span class="bi bi-list-nested-nav-menu" aria-hidden="true"></span> GoogleMaps
+     </NavLink>
+</div>
+```
+
+# 7. We run the application a see the result
+
+
+
+
