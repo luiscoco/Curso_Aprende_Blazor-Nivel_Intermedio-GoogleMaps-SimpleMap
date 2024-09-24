@@ -18,7 +18,7 @@ We set the project name and location in the hard disk:
 
 ![image](https://github.com/user-attachments/assets/ada3147b-5541-4b8c-9445-76b2654e733c)
 
-We leave all the default values for the following options and press the next button
+We leave all the default values for the following options and press the Create button
 
 ![image](https://github.com/user-attachments/assets/84045a59-6a94-4de8-a85b-4da48cc5c4a6)
 
