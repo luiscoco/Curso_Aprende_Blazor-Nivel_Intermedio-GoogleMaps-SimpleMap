@@ -88,6 +88,35 @@ See the whole App.razor source code:
 </html>
 ```
 
-# 5. 
+# 5. Create a new Razor Component to show the Google Map
 
+We right click on the Pages folder and create a new component **GoogleMaps.razor**
 
+![image](https://github.com/user-attachments/assets/575edcd7-3aa6-40bf-933f-f7a314577e9d)
+
+This is the new component source code:
+
+**GoogleMaps.razor**
+
+```razor
+@page "/googleMaps"
+
+@inject IJSRuntime JSRuntime
+
+<h3>Google Maps with Geolocation</h3>
+
+<!-- Map container -->
+<div id="map-container">
+    <div id="map" style="height: 400px; width: 100%;"></div>
+</div>
+
+<!-- Button to trigger geolocation and center the map -->
+<button class="btn btn-primary" @onclick="PanToCurrentLocation">Pan to Current Location</button>
+
+@code {
+    private async Task PanToCurrentLocation()
+    {
+        await JSRuntime.InvokeVoidAsync("initMap");
+    }
+}
+```
