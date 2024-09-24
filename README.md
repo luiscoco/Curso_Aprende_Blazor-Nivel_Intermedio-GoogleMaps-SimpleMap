@@ -1,8 +1,27 @@
-# How to integrate in your Blazor Web App a Google Simple Map
+# How to integrate in your Blazor Web App (.NET 9) a Google Simple Map
 
 https://developers.google.com/maps/documentation/javascript/examples/map-simple
 
-## 1. We create a Blazor Web App with Visual Studio 2022 Community Edition.
+## 1. We create a Blazor Web App with Visual Studio 2022 Community Edition
+
+Install Visual Studio 2022 Versión 17.12.0 Preview 2.0 Community Edition
+
+Run Visual Studio and create a new project:
+
+![image](https://github.com/user-attachments/assets/55158bf9-11cf-4e69-9e12-f6911cbae56b)
+
+We select **Blazor Web App** project template: 
+
+![image](https://github.com/user-attachments/assets/7c69aa07-a889-47a7-b97f-9dbec38e4a0a)
+
+We set the project name and location in the hard disk:
+
+![image](https://github.com/user-attachments/assets/ada3147b-5541-4b8c-9445-76b2654e733c)
+
+We leave all the default values for the following options and press the next button
+
+![image](https://github.com/user-attachments/assets/84045a59-6a94-4de8-a85b-4da48cc5c4a6)
+
 
 ## 2. We create a GoogleMap API Key in the Google Cloud Console
 
