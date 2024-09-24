@@ -10,7 +10,7 @@ We create a new JavaScript file inside wwwroot folder
 
 ![image](https://github.com/user-attachments/assets/6c22be11-30a0-4104-bb9e-84f3cc31302a)
 
-We input the JavaScript code:
+We type the JavaScript code in the ##googlemaps.js## file 
 
 ```JavaScript
 let map;
