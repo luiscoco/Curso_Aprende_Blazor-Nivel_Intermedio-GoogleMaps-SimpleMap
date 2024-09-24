@@ -28,8 +28,6 @@ We copy the API Key code and paste in the **App.razor** component
 
 ![image](https://github.com/user-attachments/assets/cc8c5373-b1e2-4123-879f-e108a9f36e21)
 
-
-
 ## 3. We create the JavaScript function for invoking the GoogleMap API
 
 We create a new JavaScript file inside wwwroot folder
@@ -90,5 +88,6 @@ See the whole App.razor source code:
 </html>
 ```
 
+# 5. 
 
 
